@@ -1,0 +1,23 @@
+Revisa la transcripción nuevamente aquí, lista para ser usada en una herramienta de TTS:
+(Suena el teléfono, tono de espera musical)
+Operadora: "Pacífico Seguros. Buenos días. Le atiende Sofía. ¿En qué puedo ayudarle?"
+Ana María Rojas: "¡Hola! Sí, buenos días. Soy Ana María Rojas, la asegurada del auto Toyota Corolla. He tenido un accidente de tránsito y necesito asistencia, por favor."
+Operadora: "Entiendo, señora Rojas. Lo primero, ¿se encuentra bien usted y los ocupantes de su vehículo?"
+Ana María Rojas: "Sí, estamos bien, solo un golpe leve en el hombro, nada grave. El auto sí está bastante dañado. Un semáforo. Una camioneta me impactó. ¡Estoy en la Av. José Pardo con la Calle 2 de Mayo, en Miraflores!"
+Operadora: "De acuerdo, señora Rojas. Agradecemos su llamada. Por favor, mantenga la calma. Para agilizar el proceso, necesitaré confirmar algunos datos con usted. ¿Me podría indicar su número de DNI o la placa de su vehículo?"
+Ana María Rojas: "Claro. Mi DNI es 47852136-E. La placa de mi auto es B2K-789."
+Operadora: "Gracias, señora Rojas. Ya localicé su póliza activa, número 0123456789. Veo que su auto es un Toyota Corolla del año 2020. ¿Es correcto?"
+Ana María Rojas: "Sí, es ese. Es el auto que uso a diario."
+Operadora: "Perfecto. ¿Puede brindarme la mayor cantidad de información posible sobre el otro vehículo involucrado?"
+Ana María Rojas: "Sí. Es una camioneta SUV Honda CR-V, modelo 2022, de color negro. Su placa es E5G-456. El conductor se llama Juan Carlos Pérez Soto, DNI 40125874-C. Dijo que su aseguradora es Rímac."
+Operadora: "Gracias por la información. ¿Podría describirme brevemente lo que sucedió?"
+Ana María Rojas: "Yo estaba circulando por la Av. José Pardo. Me tocaba luz verde y la camioneta del señor Pérez, que iba por la Calle 2 de Mayo, se pasó la luz roja y me impactó en la parte lateral derecha delantera. Ahora mi puerta y el lateral están bien golpeados."
+Operadora: "¿Pudo obtener algún dato de un testigo, señora Rojas?"
+Ana María Rojas: "Sí. Un señor que estaba en la vereda de la esquina me dijo que vio todo. Se llama Roberto Gutiérrez. Se fue hace poco, pero dijo que iba a atestiguar que la camioneta se pasó la luz roja. La policía ya está aquí levantando el atestado."
+Operadora: "Entendido. Ahora, señora Rojas, le voy a enviar un servicio de auxilio mecánico para que asista en el lugar. Necesitará una grúa para su vehículo. ¿Puedo confirmarle la dirección?"
+Ana María Rojas: "Sí, por favor. Intersección de la Av. José Pardo con Calle 2 de Mayo, en Miraflores. Mi carro no puede moverse, la llanta está dañada."
+Operadora: "Confirmado. En un momento, nuestro auxiliar mecánico se comunicará con usted. Mientras tanto, le recomiendo que se mantenga en un lugar seguro y evite discutir la responsabilidad del accidente con el otro conductor. ¿Alguna pregunta más?"
+Ana María Rojas: "No, muchas gracias."
+Operadora: "De nada, señora Rojas. Nuestro auxiliar mecánico llegará en breve. Que tenga un buen día."
+Ana María Rojas: "Igual. Gracias."
+(Fin de la llamada)

@@ -1,0 +1,8 @@
+load_dotnev
+langchain
+langchain_openai
+Pillow
+pydantic
+langchain-ollama
+Pillow
+ollama
