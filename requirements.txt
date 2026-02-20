@@ -6,3 +6,7 @@ pydantic
 langchain-ollama
 Pillow
 ollama
+google-genai
+higgsfield-client
+fastrtc-moonshine-onnx
+kokoro-onnx
